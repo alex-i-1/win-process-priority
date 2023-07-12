@@ -1,4 +1,4 @@
-Powershell + Task Scheduler
-
 Watch the priority of some processes.
+
+Powershell + Task Scheduler are used.
 
